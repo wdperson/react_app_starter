@@ -1,4 +1,3 @@
-/* eslint-disable import/default */
 import React from 'react'
 import styles from './css/styles.css'
 
