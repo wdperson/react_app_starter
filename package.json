@@ -28,6 +28,7 @@
     "eslint-plugin-standard": "3.0.1",
     "eslint-watch": "^5.1.2",
     "express": "4.16.2",
+    "mem": ">=4.0.0",
     "npm-run-all": "4.1.2",
     "open": "^6.3.0",
     "react": "16.2.0",
